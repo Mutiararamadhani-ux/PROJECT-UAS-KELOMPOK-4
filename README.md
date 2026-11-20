@@ -1,4 +1,13 @@
-REEVENT – Reuse Today, Create Tomorrow
+Kelompok 4
+1. Mutiara Nur Ramadhani
+2. Dara Shillan Raina
+3. Fideya Elviana Cahyani
+4. Pulguita Mehlika Aribirawa
+5. Muhammad Fathir Almutri
+6. Syifha Zahra Arlinda
+
+
+**REEVENT – Reuse Today, Create Tomorrow**
 
 ReEvent merupakan platform digital berbasis sustainable event marketplace yang bertujuan untuk memfasilitasi penggunaan kembali perlengkapan acara yang masih layak pakai. Website ini mempertemukan pemilik perlengkapan event dengan penyelenggara acara, event organizer, vendor, mahasiswa, dan komunitas yang membutuhkan perlengkapan untuk kegiatan mereka.
 
